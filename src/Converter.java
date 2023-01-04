@@ -14,6 +14,7 @@ public class Converter {
                 return false;
             }
         }
+
         //requires decimal to be lower than max value
         try {
             int num = Integer.parseInt(dec);
