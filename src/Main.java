@@ -19,6 +19,7 @@ public class Main {
         System.out.print("Enter the number of the conversion you want to use: ");
         //initial input for conversion type
         String type = inp.nextLine();
+
         //tests input and continues to ask for a new one if it is invalid
         while (!(type.equals("1")) && !(type.equals("2")) && !(type.equals("3")) && !(type.equals("4")) && !(type.equals("5")) && !(type.equals("6"))) {
             System.out.println(" ");

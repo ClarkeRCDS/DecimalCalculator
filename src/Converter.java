@@ -14,6 +14,7 @@ public class Converter {
                 return false;
             }
         }
+
         //requires decimal to be lower than max value
         try {
             int num = Integer.parseInt(dec);
@@ -146,7 +147,7 @@ public class Converter {
             //divides the decimal and truncates because the numbers after the decimal point are redundant
             decNum /= 16;
 
-            //converts the remainder to a hexadecimal value and adds it the the hexadecimal number
+            //converts the remainder to a hexadecimal value and adds it the hexadecimal number
             if (remainder <= 9){
                 hexa = remainder + hexa;
             } else if(remainder == 10) {
@@ -192,7 +193,7 @@ public class Converter {
 
     //converts a binary value to a hexadecimal value
     public static String binToHexa(String bin) {
-        //holds the a unit of four binary digits
+        //holds a unit of four binary digits
         String currentBin;
         //holds the hexadecimal value as the binary digits are added
         String hexa = "";
