@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3b9b4aa7-18d3-4297-b4fc-83c3294de58d" name="Changes" comment="Tuesday January 3, 2023&#10;10:04 PM&#10;Decimal Converter version 1.0">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Decimal Converter.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Main.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2Is0NzRYgoFBlP3ljF6XrTry4Ec" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "module",
+      "directory"
+    ]
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b9b4aa7-18d3-4297-b4fc-83c3294de58d" name="Changes" comment="" />
+      <created>1670954952047</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670954952047</updated>
+      <workItem from="1670954954869" duration="14000" />
+      <workItem from="1670955859680" duration="46000" />
+      <workItem from="1671027116440" duration="364000" />
+      <workItem from="1671027488714" duration="2000" />
+      <workItem from="1671027532617" duration="9919000" />
+      <workItem from="1671109940249" duration="6516000" />
+      <workItem from="1671237040335" duration="13426000" />
+      <workItem from="1671285871826" duration="480000" />
+      <workItem from="1671286429038" duration="5582000" />
+      <workItem from="1671306202130" duration="166000" />
+      <workItem from="1672080167423" duration="130000" />
+      <workItem from="1672801371384" duration="2108000" />
+    </task>
+    <task id="LOCAL-00001" summary="Saturday, December 17&#10;9:00 AM&#10;Decimal Converter version 1.0">
+      <created>1671285597847</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671285597847</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Saturday, December 17&#10;9:00 AM&#10;Decimal Converter version 1.0">
+      <created>1671303752511</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1671303752511</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Tuesday January 3, 2023&#10;10:04 PM&#10;Decimal Converter version 1.0">
+      <created>1672801496755</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1672801496755</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Tuesday January 3, 2023&#10;10:04 PM&#10;Decimal Converter version 1.0">
+      <created>1672801716508</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1672801716508</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Tuesday January 3, 2023&#10;10:04 PM&#10;Decimal Converter version 1.0">
+      <created>1672802841815</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1672802841815</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Saturday, December 17&#10;9:00 AM&#10;Decimal Converter version 1.0" />
+    <MESSAGE value="Tuesday January 3, 2023&#10;10:04 PM&#10;Decimal Converter version 1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tuesday January 3, 2023&#10;10:04 PM&#10;Decimal Converter version 1.0" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
